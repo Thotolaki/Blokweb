@@ -131,6 +131,10 @@ nav img {
   width: 100%;
 }
 
+figcaption {
+  display: none;
+}
+
 .knoppen {
   position: absolute;
   top: 50%;
@@ -564,6 +568,7 @@ article img {
   }
 
   .carousel figure p {
+    margin-top: 0;
   }
 
   figcaption {

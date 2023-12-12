@@ -61,21 +61,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 </details>
 
 
-
 ## Breakdownschets (week 1)
 
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
+   ### Bevindingen
+Ik heb deze week gekeken naar de opbouw van mijn html en gekeken of er nog onerdelen verbeterd moesten worden of nog niet semantisch correct waren. Om daar bij te helpen heb ik een break down schets gemaakt van de pagina. Dit hebben we gedaan om snel een overzicht te krijgen waar je gobaal welke code waar voor nodig hebt. 
+
   ### de hele pagina: 
   <img src="readme-images/Schets1" width="375px" alt="breakdown van de hele pagina">
-
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
 </details>
 
 
@@ -108,17 +103,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
 ## Toegankelijkheidstest 2/2 (week 4)
 
 <details>
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+We hadden in de les niet de toegangelijkstest gedaan. Inplaats daarvan heb ik wel vragen kunnen stellen. Zo heb ik een flexbox probleem kunnen oplossen die met een @media niet van row naar collum wilde gaan en heb ik de positie van elementen in de flexbox kunnen aanpassen en oplossen. Nu staat alle goed in de flexboxen.
+
+Hieronder staat de toegankelijkheids test.
+
+  <img src="readme-images/wcag-p1.png" width="375px" alt="toegankelijkheids test pagina 1">
+
+  <img src="readme-images/wcag-p2.png" width="375px" alt="toegankelijkheids test pagina 2">
+
+  <img src="readme-images/wcag-p3.png" width="375px" alt="toegankelijkheids test pagina 3">
+
+  <img src="readme-images/wcag-p4.png" width="375px" alt="toegankelijkheids test pagina 4">
+
+   <img src="readme-images/wcag-p5.png" width="375px" alt="toegankelijkheids test pagina 5">
 
 </details>
-
 
 
 
@@ -129,27 +134,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+  Ik liep deze week nog te het maken van mijn class rij aan. Het lukte me niet om ze perfect naast elkaar te krijgen. Door wat hulp en het gebruik van een div's is het uiteindelijk toch gelukt. OOk liep ik vast op het maken van mijn interactie. Ik begrep niet wat ik fout deed en waar de fout zat. Na wat hulp van Lynn kwamen we er achter wat hetprobleem was en waar het fout ging. Gelukkig heb ik het optijd kunnen oplossen omdat ik best wat stress door kreeg dat het maar niet lukte.
 </details>
 
 
@@ -162,19 +147,39 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p1" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p1.1" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p1.2" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p1.3" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p1.4" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p1.5" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p1.6" width="375px" alt="uitomst opdracht 1">
 
+Hierboven staat in screenshots mijn eerste pagina. 
+Hierboven staat in screenshots mijn tweede pagina. 
+
+  <img src="readme-images/p2" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p2.1" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p2.2" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p2.3" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p2.4" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p2.5" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p2.6" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p2.7" width="375px" alt="uitomst opdracht 1">
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik heb echt enrom veel geleerd afgelopen maand en ik heb meer vertrouwen gekregen in mijn kunnen qua code en meer plezier. Ik wilde perce responsive leren omdat me die handig van pas lijkt te komen bij het maken van mijn portfolio. Waar ik het meerst van heb geleerd en waar ik het meest me heb gestrugeld is de opmaak van mijn flexboxen en de interactie daarmee. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/flexbox.jpg" width="375px" alt="top">
+  <img src="readme-images/flexjava" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Wat me nog niet gelukt was is om in de titel en in mijn class rij de h1 en de h4 voor het eerste gedeelde solide te maken en voor het tweede gedeelte transparant te maken. IK denk dat ik er misschien een div van had moeten maken om het op te kunnen lossen alleen wist ik dat niet zeker. Ook was het me nog niet gelukt om de carrousel perfect uit te lijnen. Ik wit niet waarom en kwam er eigenlijk ook pas laat achter dat het niet perfect uitgeleind was. Door de tijdsdruk had ik eigenlijk nog mijn code willen nalopen en controleren en misschien nog willen aanpassen of vebeteren alleen zat dat er helaas niet meer in.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/dikte.jpg" width="375px" alt="bummer">
+  <img src="readme-images/dikte-2.jpg" width="375px" alt="bummer">
+  <img src="readme-images/perfect.jpg" width="375px" alt="bummer">
 </details>
 
 
@@ -190,8 +195,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. bron 1 : https://chat.openai.com/
+  2. bron 2 : https://www.youtube.com/@slayingthedragon
+  3. bron 3 : https://www.w3schools.com/
 
 </details>
