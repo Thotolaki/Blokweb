@@ -70,7 +70,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 Ik heb deze week gekeken naar de opbouw van mijn html en gekeken of er nog onerdelen verbeterd moesten worden of nog niet semantisch correct waren. Om daar bij te helpen heb ik een break down schets gemaakt van de pagina. Dit hebben we gedaan om snel een overzicht te krijgen waar je gobaal welke code waar voor nodig hebt. 
 
   ### de hele pagina: 
-  <img src="readme-images/Schets1" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/Schets1.png" width="375px" alt="breakdown van de hele pagina">
 </details>
 
 
@@ -147,39 +147,39 @@ Hieronder staat de toegankelijkheids test.
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/p1" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p1.1" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p1.2" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p1.3" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p1.4" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p1.5" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p1.6" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p11.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p12.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p13.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p14.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p15.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p16.png" width="375px" alt="uitomst opdracht 1">
 
 Hierboven staat in screenshots mijn eerste pagina. 
 Hierboven staat in screenshots mijn tweede pagina. 
 
-  <img src="readme-images/p2" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p2.1" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p2.2" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p2.3" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p2.4" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p2.5" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p2.6" width="375px" alt="uitomst opdracht 1">
-  <img src="readme-images/p2.7" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p2.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p21.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p22.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p23.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p24.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p25.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p26.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/p27.png" width="375px" alt="uitomst opdracht 1">
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik heb echt enrom veel geleerd afgelopen maand en ik heb meer vertrouwen gekregen in mijn kunnen qua code en meer plezier. Ik wilde perce responsive leren omdat me die handig van pas lijkt te komen bij het maken van mijn portfolio. Waar ik het meerst van heb geleerd en waar ik het meest me heb gestrugeld is de opmaak van mijn flexboxen en de interactie daarmee. 
 
-  <img src="readme-images/flexbox.jpg" width="375px" alt="top">
-  <img src="readme-images/flexjava" width="375px" alt="top">
+  <img src="readme-images/flexbox.png" width="375px" alt="top">
+  <img src="readme-images/flexjava.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Wat me nog niet gelukt was is om in de titel en in mijn class rij de h1 en de h4 voor het eerste gedeelde solide te maken en voor het tweede gedeelte transparant te maken. IK denk dat ik er misschien een div van had moeten maken om het op te kunnen lossen alleen wist ik dat niet zeker. Ook was het me nog niet gelukt om de carrousel perfect uit te lijnen. Ik wit niet waarom en kwam er eigenlijk ook pas laat achter dat het niet perfect uitgeleind was. Door de tijdsdruk had ik eigenlijk nog mijn code willen nalopen en controleren en misschien nog willen aanpassen of vebeteren alleen zat dat er helaas niet meer in.
 
-  <img src="readme-images/dikte.jpg" width="375px" alt="bummer">
-  <img src="readme-images/dikte-2.jpg" width="375px" alt="bummer">
-  <img src="readme-images/perfect.jpg" width="375px" alt="bummer">
+  <img src="readme-images/dikte.png" width="375px" alt="bummer">
+  <img src="readme-images/dikte2.png" width="375px" alt="bummer">
+  <img src="readme-images/perfect.png" width="375px" alt="bummer">
 </details>
 
 
