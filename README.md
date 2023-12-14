@@ -178,7 +178,7 @@ Hierboven staat in screenshots mijn tweede pagina.
   Wat me nog niet gelukt was is om in de titel en in mijn class rij de h1 en de h4 voor het eerste gedeelde solide te maken en voor het tweede gedeelte transparant te maken. IK denk dat ik er misschien een div van had moeten maken om het op te kunnen lossen alleen wist ik dat niet zeker. Ook was het me nog niet gelukt om de carrousel perfect uit te lijnen. Ik wit niet waarom en kwam er eigenlijk ook pas laat achter dat het niet perfect uitgeleind was. Door de tijdsdruk had ik eigenlijk nog mijn code willen nalopen en controleren en misschien nog willen aanpassen of vebeteren alleen zat dat er helaas niet meer in.
 
   <img src="readme-images/dikte.png" width="375px" alt="bummer">
-  <img src="readme-images/dikte2.png" width="375px" alt="bummer">
+  <img src="readme-images/diktetwee.png" width="375px" alt="bummer">
   <img src="readme-images/perfect.png" width="375px" alt="bummer">
 </details>
 
