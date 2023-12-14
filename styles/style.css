@@ -294,7 +294,7 @@ article img {
 
 @media (max-width: 1000px) {
   .nothing {
-    background-image: url('/images/Nothing.jpg');
+    background-image: url('images/Nothing.jpg');
     display: block;
   }
 
@@ -424,7 +424,7 @@ article img {
 }
 
 .historyb {
-  background-image: url('/images/Nothingb.jpeg');
+  background-image: url('images/Nothingb.jpeg');
   height: auto;
   max-height: 100vh;
   -o-object-fit: cover;
@@ -440,7 +440,7 @@ article img {
 
 @media (max-width: 1000px) {
   .history {
-    background-image: url('/images/Nothing.jpg');
+    background-image: url('images/Nothing.jpg');
     height: auto;
     width: 100%;
     display: block;
