@@ -869,7 +869,7 @@ article img {
   height: 70vh;
   background-size: cover;
   padding: 10vh;
-  background-image: url('images/zwartblauw.jpg');
+  background-image: url('../images/zwartblauw.jpg');
 }
 
 .banner-image {
@@ -925,7 +925,7 @@ article img {
 
 @media (max-width: 1000px) {
   .banner-container {
-    background-image: url('images/zwartblauw.jpg');
+    background-image: url('../images/zwartblauw.jpg');
     position: relative;
     width: 100%;
     height: 50vh;
